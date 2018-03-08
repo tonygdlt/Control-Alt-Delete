@@ -1,0 +1,17 @@
+{
+	"shed":
+	{
+		"roomName":"Shed",
+		"longDescription":"The shed has many tools and otherodds and ends scattered about. Most of the items were either broken or rusted beyond use. There is a shelf against one wall, and a large toolbox against the other. The door leading back to the backyard is to the south.",
+		"shortDescription":"The shed is cluttered with various tools and junk. To the south is the backyard",
+		"features": [],
+		"neighbors":{
+			"north":"",
+			"south":"Backyard",
+			"east":"",
+			"west":""
+		},
+		"item":["crowbar", "tool box", "shelf"],
+		"hidden": ["crowbar"]
+	}
+}
